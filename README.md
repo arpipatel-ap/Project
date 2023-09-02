@@ -1,3 +1,3 @@
 # Project
-Web page using only Html
+Web page using Html
 
